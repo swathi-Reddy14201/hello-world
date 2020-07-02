@@ -1,3 +1,3 @@
 # hello-world
 Hello guys!
-    Here i am going to learn java and other languages and also want to do projects.
+    Here i am going to learn java and other languages.
